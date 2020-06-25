@@ -6,7 +6,7 @@ Processed files, created from english wikipedia data dumps - text only
 
 # Download compressed zipped(7z) folder from https://drive.google.com/file/d/1tuHFrfRQJvYVh3QlEaAJleF05DIukuWP/view?usp=sharing
 
-This  file contains 4.5+ million articles, each as individual text files
+This  file contains 4,793,321 articles, each as individual text files ( in  " .txt " format).
 
 This database can be used for offline wikipedia browsing, chatbot brain, and humanoid robot memory
 
