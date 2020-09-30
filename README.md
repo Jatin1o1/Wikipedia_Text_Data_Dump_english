@@ -4,7 +4,7 @@ Processed files, created from english wikipedia data dumps - text only
 ## compressed folder size  = 3.0GB
 ## uncompressed folder size ~ 16.0 GB
 
-# Download compressed zipped(7z) folder from https://drive.google.com/file/d/1tuHFrfRQJvYVh3QlEaAJleF05DIukuWP/view?usp=sharing
+##### Download compressed zipped(7z) folder from https://drive.google.com/file/d/1tuHFrfRQJvYVh3QlEaAJleF05DIukuWP/view?usp=sharing
 
 This  file contains 4,793,321 articles, each as individual text files ( in  " .txt " format).
 
