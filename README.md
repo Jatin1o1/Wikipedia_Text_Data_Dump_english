@@ -1,5 +1,5 @@
 # Wikipedia_Text_Data_Dump_english
-Processed files, created from english wikipedia data dumps - text only
+Processed files, created from eWikipedia (En) data dumps - text only
 
 ## compressed folder size  = 3.0GB
 ## uncompressed folder size ~ 16.0 GB
